@@ -1,0 +1,9 @@
+public enum Position {
+
+    SOFTWARE_DESIGNER,
+    NETWORK_SECURITY_AGENT,
+    BACKEND,
+    FRONTEND,
+    FULL_STACK,
+    DATABASE_MANAGER,
+}
